@@ -6,8 +6,8 @@ The objective of this task is to preprocess a raw dataset by handling missing va
 
 ## Dataset
 
- **Dataset:** Iris Dataset
- **Source:** Local CSV file (`iris.csv`)
+- **Dataset:** Iris Dataset
+- **Source:** Local CSV file (`iris.csv`)
 
 ## Tools & Libraries
 
