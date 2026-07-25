@@ -23,8 +23,8 @@ Tools Used
 
 ### Level 1
 
- ✅ Task 1 – Data Preprocessing for Machine Learning
- ✅ Task 2 – Linear Regression Model
+- ✅ Task 1 – Data Preprocessing for Machine Learning
+- ✅ Task 2 – Linear Regression Model
 
 ### Level 2
 
