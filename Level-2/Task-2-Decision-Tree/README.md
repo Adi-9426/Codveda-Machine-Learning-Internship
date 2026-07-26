@@ -39,6 +39,12 @@ The model was evaluated using:
 - F1-Score
 - Confusion Matrix
 
+## Decision Tree Visualization
+
+The figure below shows the trained Decision Tree used for classification.
+
+![Decision Tree](decision_tree.png)
+
 ## Outcome
 
 A Decision Tree classifier was successfully developed for multi-class classification. The trained model was visualized and evaluated using multiple performance metrics to assess its classification capability.
