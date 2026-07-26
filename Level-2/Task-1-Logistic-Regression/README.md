@@ -46,11 +46,5 @@ A Logistic Regression classifier was successfully implemented for binary classif
 
 ## Files
 
-```
-Task-1-Logistic-Regression/
-│
-├── Logistic_Regression.ipynb
-└── README.md
-
-
-Codveda Technology
+- `Logistic_Regression.ipynb`
+- `README.md`
