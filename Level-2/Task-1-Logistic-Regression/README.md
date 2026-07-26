@@ -22,7 +22,7 @@ The objective of this task is to develop a Logistic Regression model capable of 
 ## Steps performed
 
 - Loaded and explored the dataset.
-- Performed data preprocessing and handled missing values (if any).
+- Performed data preprocessing.
 - Encoded categorical variables where required.
 - Split the dataset into training and testing sets.
 - Trained a Logistic Regression classifier using scikit-learn.
