@@ -47,6 +47,3 @@ A Decision Tree classifier was successfully developed for multi-class classifica
 
 - `Decision_Tree.ipynb`
 - `README.md`
-
-
-Codveda Technology
