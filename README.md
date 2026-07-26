@@ -28,7 +28,8 @@ Tools Used
 
 ### Level 2
 
-- ⏳ In Progress
+- ✅ Task 1 – Logistic Regression
+- ✅ Task 2 – Decision Tree
 
 ### Level 3
 
