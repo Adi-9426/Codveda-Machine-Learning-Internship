@@ -39,6 +39,12 @@ The model was evaluated using:
 - ROC Curve
 - Confusion Matrix
 
+## ROC Curve
+
+The ROC Curve shows the performance of the Logistic Regression classifier across different classification thresholds.
+
+![ROC Curve](roc_curve.png)
+
 ## Outcome
 
 A Logistic Regression classifier was successfully implemented for binary classification. The model's performance was evaluated using standard classification metrics, demonstrating its ability to classify unseen data effectively.
