@@ -33,4 +33,5 @@ Tools Used
 
 ### Level 3
 
-- ⏳ In Progress
+- ✅ Task 1 – Random Forest Classifier
+- ✅ Task 2 – Support Vector Machine
